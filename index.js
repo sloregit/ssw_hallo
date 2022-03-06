@@ -6,3 +6,5 @@ document.getElementById('par1').onclick = function () {
 };//
 
 //
+
+//
